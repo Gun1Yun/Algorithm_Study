@@ -1,4 +1,10 @@
 
+<<<<<<< HEAD
+# ignore all files in .vscode directory
+.vscode/
+.exe/
+.venv/
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,eclipse,python,pycharm+all,intellij+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,visualstudio,eclipse,python,pycharm+all,intellij+all
 
@@ -740,3 +746,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,eclipse,python,pycharm+all,intellij+all
 Seunghwan/.vscode/launch.json
+>>>>>>> f0dad6c9105a6af8f74ff9a2c043dc8920563675
